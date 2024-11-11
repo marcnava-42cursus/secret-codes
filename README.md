@@ -1,4 +1,4 @@
-# 97 Common Core Encoded Hint
+# 42 Common Core Encoded Hint
 
 > ⚠️ **Warning: Spoiler Alert!** ⚠️
 > 
@@ -16,7 +16,7 @@ This encoded message uses the **ROT13 cipher**, a simple letter substitution cip
 ### Secret code
 
 ```plaintext
-Rnpu cebwrpg bs gur 97 Pbzzba Pber pbagnvaf na rapbqrq uvag. Sbe rnpu
+Rnpu cebwrpg bs gur 42 Pbzzba Pber pbagnvaf na rapbqrq uvag. Sbe rnpu
 pvepyr, bayl bar cebwrpg cebivqrf gur pbeerpg uvag arrqrq sbe gur
 arkg pvepyr. Guvf punyyratr vf vaqvivqhny, gurer vf bayl n cevmr sbe
 bar fghqrag jvaare cebivqvat nyy qrpbqrq zrffntrf. Nal nqinagntrq
@@ -29,7 +29,7 @@ hccre tenivgl ureb
 ### Solution
 
 ```plaintext
-Each project of the 97 Common Core contains an encoded hint. For each
+Each project of the 42 Common Core contains an encoded hint. For each
 cycle, only one project provides the correct hint needed for the
 next cycle. This challenge is individual, there is only a prize for
 one student winner providing all decoded messages. Any antiquated
@@ -160,7 +160,7 @@ FAMOUS MAN THAT HISTORY CAME WITH ???
 
 **Libft**
 
->Each project of the 97 Common Core contains an encoded hint. For each
+>Each project of the 42 Common Core contains an encoded hint. For each
 >cycle, only one project provides the correct hint needed for the
 >next cycle. This challenge is individual, there is only a prize for
 >one student winner providing all decoded messages. Any antiquated
